@@ -32,6 +32,7 @@ def test_select_product_1(set_up, set_group):
 
     print('STATUS TEST BUY PRODUCT: FINISH')
 
-    # driver.quit()
+    driver.quit()
+
 
 

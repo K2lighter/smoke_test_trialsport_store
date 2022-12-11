@@ -1,5 +1,5 @@
 import time
-
+from utilities.logger import Logger
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
@@ -87,6 +87,7 @@ class ButtonsPage(Base):
     # methods
 
     def select_buttons(self):
+        Logger.add_start_step(method='select_buttons')
         self.get_current_url()
         time.sleep(1)
         self.assert_text(self.get_text_for_assert_test(), 'Сноуборды')
@@ -99,5 +100,5 @@ class ButtonsPage(Base):
         self.click_confirm_button()
         self.click_sorting_button()
         self.click_key_setting()
-
         self.get_screenshot()
+        Logger.add_end_step(url=self.driver.current_url, method='select_buttons')

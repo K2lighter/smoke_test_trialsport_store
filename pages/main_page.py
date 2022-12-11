@@ -1,5 +1,5 @@
 import time
-
+from utilities.logger import Logger
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -22,7 +22,6 @@ class MainPage(Base):
     add_to_cart_button = '//a[@class="item_im_buy__but js-show-buy-params"]'
     add_to_cart_button_confirm = '/html/body/div[4]/div[6]/div[11]/div[2]/div[2]/form/div/div/div/input'
 
-
     #  getters
 
     def get_menu_snowboards(self):
@@ -44,7 +43,8 @@ class MainPage(Base):
         return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.add_to_cart_button)))
 
     def get_add_to_cart_button_confirm(self):
-        return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.add_to_cart_button_confirm)))
+        return WebDriverWait(self.driver, 30).until(
+            EC.element_to_be_clickable((By.XPATH, self.add_to_cart_button_confirm)))
 
     #  actions
 
@@ -79,6 +79,7 @@ class MainPage(Base):
     # methods
 
     def choice_snowboards(self):
+        Logger.add_start_step(method='choice_snowboards')
         self.get_current_url()
         time.sleep(1)
         self.click_main_menu_snowboards()
@@ -87,3 +88,4 @@ class MainPage(Base):
         self.click_snowboard_nitro_prime()
         self.click_add_to_cart_button()
         self.click_add_to_cart_button_confirm()
+        Logger.add_end_step(url=self.driver.current_url, method='choice_snowboards')
