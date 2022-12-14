@@ -1,15 +1,13 @@
-import time
+import allure
 from utilities.logger import Logger
 from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from base.base_class import Base
-from selenium.webdriver.common.action_chains import ActionChains
 
 
-class DeliveryPage(Base):
-    url = 'https://trial-sport.ru/'
+class FinishPage(Base):
 
     def __init__(self, driver):
         self.driver = driver
@@ -75,15 +73,15 @@ class DeliveryPage(Base):
     # methods
 
     def get_delivery(self):
-        Logger.add_start_step(method='get_delivery')
-        self.get_current_url()
-        self.click_radiobutton_place_delivery()
-        self.set_recipient_of_product('Ivanov', ' Ivan', ' Ivanovich')
-        self.driver.find_element(By.XPATH, self.continue_button).send_keys(Keys.DOWN)
-        # self.set_phone_number_recipient('+7 (921) 356-78-70')
-        self.click_radiobutton_operator_call_needed()
-        time.sleep(3)
-        self.click_continue_button()
-        self.assert_text(self.get_finish_mistake(), 'Заполните верно поле "Номер телефона получателя заказа".')
-        self.get_screenshot()
-        Logger.add_end_step(url=self.driver.current_url, method='get_delivery')
+        with allure.step('Get delivery'):
+            Logger.add_start_step(method='get_delivery')
+            self.get_current_url()
+            self.click_radiobutton_place_delivery()
+            self.set_recipient_of_product('Ivanov', ' Ivan', ' Ivanovich')
+            self.driver.find_element(By.XPATH, self.continue_button).send_keys(Keys.DOWN)
+            # self.set_phone_number_recipient('+7 (991) 657-92-77')
+            self.click_radiobutton_operator_call_needed()
+            self.click_continue_button()
+            self.assert_text(self.get_finish_mistake(), 'Заполните верно поле "Номер телефона получателя заказа".')
+            self.get_screenshot()
+            Logger.add_end_step(url=self.driver.current_url, method='get_delivery')

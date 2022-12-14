@@ -1,6 +1,5 @@
 from datetime import datetime
-
-from selenium.webdriver import ActionChains
+from enums.global_enums import GlobalErrorMessages
 
 
 class Base:
@@ -17,8 +16,8 @@ class Base:
 
     def assert_text(self, text, result):
         value_text = text.text
-        assert value_text == result
-        print('ASSERT TEST STATUS: TEXT MATCHES')
+        assert value_text == result, GlobalErrorMessages.WRONG_TEXT_VALUE.value
+        print('ASSERT TEST STATUS: TEXT MATCHED')
 
     '''screenshot method'''
 
@@ -31,8 +30,5 @@ class Base:
 
     def assert_url(self, result):
         get_url = self.driver.current_url
-        assert get_url == result
-        print('ASSERT TEST STATUS: URL MATCHES')
-
-
-
+        assert get_url == result, GlobalErrorMessages.WRONG_URL_VALUE.value
+        print('ASSERT TEST STATUS: URL MATCHED')
