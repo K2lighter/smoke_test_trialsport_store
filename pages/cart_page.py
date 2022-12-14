@@ -1,3 +1,5 @@
+import allure
+
 from utilities.logger import Logger
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
@@ -55,12 +57,13 @@ class CartPage(Base):
     # methods
 
     def get_cart(self):
-        Logger.add_start_step(method='get_cart')
-        self.get_current_url()
-        self.assert_text(self.get_assert_test_text(), 'Оформление заказа')
-        self.driver.execute_script("window.scrollTo(0, 700)")
-        self.set_city('Москва, Москва')
-        self.click_confirm_link_city()
-        self.click_make_order_button()
-        self.assert_url(self.assert_url_for_test)
-        Logger.add_end_step(url=self.driver.current_url, method='get_cart')
+        with allure.step('Get cart'):
+            Logger.add_start_step(method='get_cart')
+            self.get_current_url()
+            self.assert_text(self.get_assert_test_text(), 'Оформление заказа')
+            self.driver.execute_script("window.scrollTo(0, 700)")
+            self.set_city('Москва, Москва')
+            self.click_confirm_link_city()
+            self.click_make_order_button()
+            self.assert_url(self.assert_url_for_test)
+            Logger.add_end_step(url=self.driver.current_url, method='get_cart')
