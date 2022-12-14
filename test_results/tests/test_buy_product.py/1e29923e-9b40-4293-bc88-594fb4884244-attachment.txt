@@ -1,0 +1,45 @@
+ENTER SYSTEM
+START TEST
+STATUS TEST BUY PRODUCT: START
+current url https://trial-sport.ru/
+website loaded
+Click close banner
+Click account button
+current url https://trial-sport.ru/#
+Input user name
+Input password
+Click login button
+current url https://trial-sport.ru/#
+Click menu snowboards
+Click submenu snowboards
+ASSERT TEST STATUS: TEXT MATCHED
+Click brand radiobutton
+Move slide bar left
+Click sub brand checkbox
+Move slide bar right
+Click confirm button
+Click sorting button
+Click key setting
+current url https://trial-sport.ru/gds.php?change_price=&s=51526&c1=1070639&discount=1&c2%5B%5D=1078224&price_from=10+000&price_to=&brand%5B%5D=2278&sort=price
+Click choice product
+Click add to cart button
+Click window select size product
+Click select size product
+Click add to cart finish button
+ASSERT TEST STATUS: TEXT MATCHED
+Click cart basket button
+current url https://trial-sport.ru/order.php
+ASSERT TEST STATUS: TEXT MATCHED
+Input city delivery
+Click confirm link input city
+Click make order button
+ASSERT TEST STATUS: URL MATCHED
+current url https://trial-sport.ru/order.php
+Click radiobutton_place_delivery
+Click recipient_of_product
+Click radiobutton_operator_call_needed
+Click continue_button
+ASSERT TEST STATUS: TEXT MATCHED
+STATUS TEST BUY PRODUCT: FINISH
+FINISH TEST
+EXIT SYSTEM

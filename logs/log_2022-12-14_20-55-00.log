@@ -1,0 +1,55 @@
+
+-----
+Test: test_buy_product.py::test_select_product (call)
+Start time: 2022-12-14 20:55:09.758531
+Start name method: authorization
+
+End time: 2022-12-14 20:55:10.574106
+End name method: authorization
+URL: https://trial-sport.ru/#
+
+-----
+
+-----
+Test: test_buy_product.py::test_select_product (call)
+Start time: 2022-12-14 20:55:10.574106
+Start name method: filter_product
+
+End time: 2022-12-14 20:55:17.611746
+End name method: filter_product
+URL: https://trial-sport.ru/gds.php?change_price=&s=51526&c1=1070639&discount=1&c2%5B%5D=1078224&price_from=10+000&price_to=&brand%5B%5D=2278&sort=price
+
+-----
+
+-----
+Test: test_buy_product.py::test_select_product (call)
+Start time: 2022-12-14 20:55:17.613127
+Start name method: select_product
+
+End time: 2022-12-14 20:55:22.835697
+End name method: select_product
+URL: https://trial-sport.ru/order.php
+
+-----
+
+-----
+Test: test_buy_product.py::test_select_product (call)
+Start time: 2022-12-14 20:55:22.836359
+Start name method: get_cart
+
+End time: 2022-12-14 20:55:26.291325
+End name method: get_cart
+URL: https://trial-sport.ru/order.php
+
+-----
+
+-----
+Test: test_buy_product.py::test_select_product (call)
+Start time: 2022-12-14 20:55:26.291325
+Start name method: get_delivery
+
+End time: 2022-12-14 20:55:27.434506
+End name method: get_delivery
+URL: https://trial-sport.ru/order.php
+
+-----

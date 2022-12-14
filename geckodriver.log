@@ -1,0 +1,711 @@
+1670694259160	geckodriver	INFO	Listening on 127.0.0.1:57184
+1670694262210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile9oodoM"
+1670694262615	Marionette	INFO	Marionette enabled
+1670694262619	Marionette	INFO	Listening on port 57204
+Read port: 57204
+WebDriver BiDi listening on ws://127.0.0.1:57185
+1670694262730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile9oodoM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57185/devtools/browser/30d38a69-a85e-4383-bea2-c3d0a72e7a80
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:4294967311"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670697609534	Marionette	INFO	Stopped listening on port 57204
+[Parent 4392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Temp\\rust_mozprofilehrLkpb"
+1670694693912	Marionette	INFO	Marionette enabled
+1670694693916	Marionette	INFO	Listening on port 57598
+Read port: 57598
+WebDriver BiDi listening on ws://127.0.0.1:57586
+1670694694019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilehrLkpb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57586/devtools/browser/892f0ece-b985-48c4-95e6-af5ee01db0ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670697607562	Marionette	INFO	Stopped listening on port 57598
+e-debugging-port" "57963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile7Crbnm"
+1670695132318	Marionette	INFO	Marionette enabled
+1670695132323	Marionette	INFO	Listening on port 57973
+WebDriver BiDi listening on ws://127.0.0.1:57963
+Read port: 57973
+1670695132559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile7Crbnm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57963/devtools/browser/28ef9052-a904-4292-99af-7dbb5b47a31d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670695593082	Marionette	INFO	Stopped listening on port 57973
+1670695832283	geckodriver	INFO	Listening on 127.0.0.1:58419
+1670695835345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileXBxeMs"
+1670695835653	Marionette	INFO	Marionette enabled
+1670695835657	Marionette	INFO	Listening on port 58431
+Read port: 58431
+WebDriver BiDi listening on ws://127.0.0.1:58420
+1670695835755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileXBxeMs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58420/devtools/browser/881d6b99-3fe1-441e-9519-6708238063db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670695841902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670697606460	Marionette	INFO	Stopped listening on port 58431
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileqRLyy9"
+1670696002896	Marionette	INFO	Marionette enabled
+1670696002901	Marionette	INFO	Listening on port 58630
+WebDriver BiDi listening on ws://127.0.0.1:58620
+Read port: 58630
+1670696003149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileqRLyy9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58620/devtools/browser/1eee2220-4cac-4613-913d-8006de6c4256
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670697605776	Marionette	INFO	Stopped listening on port 58630
+e-debugging-port" "58798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileypRPLq"
+1670696130656	Marionette	INFO	Marionette enabled
+1670696130660	Marionette	INFO	Listening on port 58809
+WebDriver BiDi listening on ws://127.0.0.1:58798
+Read port: 58809
+1670696130915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileypRPLq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58798/devtools/browser/78fd370b-4e67-4255-b251-8a8004fe4847
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670697604329	Marionette	INFO	Stopped listening on port 58809
+!!! error running onStopped callback: TypeError: callback is not a function
+rofile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileYWql7I"
+1670696431181	Marionette	INFO	Marionette enabled
+1670696431185	Marionette	INFO	Listening on port 59104
+WebDriver BiDi listening on ws://127.0.0.1:59094
+Read port: 59104
+1670696431428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileYWql7I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59094/devtools/browser/860204f0-d725-474a-8c32-500e8e27c6bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670697602814	Marionette	INFO	Stopped listening on port 59104
+e-debugging-port" "59669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile2a0K5e"
+1670697346476	Marionette	INFO	Marionette enabled
+1670697346480	Marionette	INFO	Listening on port 59680
+WebDriver BiDi listening on ws://127.0.0.1:59669
+Read port: 59680
+1670697346698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile2a0K5e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59669/devtools/browser/9f94aaf4-e877-436a-a344-c74e80b90f95
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670698011689	Marionette	INFO	Stopped listening on port 59680
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileQ3YWHj"
+1670697679913	Marionette	INFO	Marionette enabled
+1670697679917	Marionette	INFO	Listening on port 60132
+Read port: 60132
+WebDriver BiDi listening on ws://127.0.0.1:60121
+1670697680045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileQ3YWHj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60121/devtools/browser/91bcba9a-661b-4e54-a886-72b2cd77809f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670697710322	Marionette	INFO	Stopped listening on port 60132
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670697732691	geckodriver	INFO	Listening on 127.0.0.1:60259
+1670697735784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileoODOJ8"
+1670697736054	Marionette	INFO	Marionette enabled
+1670697736058	Marionette	INFO	Listening on port 60270
+WebDriver BiDi listening on ws://127.0.0.1:60260
+Read port: 60270
+1670697736252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileoODOJ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60260/devtools/browser/670e692c-3fb2-4715-9a1b-06806ab8c3d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670698010900	Marionette	INFO	Stopped listening on port 60270
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileOF77jF"
+1670697892281	Marionette	INFO	Marionette enabled
+1670697892286	Marionette	INFO	Listening on port 60490
+Read port: 60490
+WebDriver BiDi listening on ws://127.0.0.1:60479
+1670697892387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileOF77jF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60479/devtools/browser/d1cdd8ff-dc94-4a79-8529-8f0831a34125
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670698010047	Marionette	INFO	Stopped listening on port 60490
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilek95iXF"
+1670697930057	Marionette	INFO	Marionette enabled
+1670697930061	Marionette	INFO	Listening on port 60619
+Read port: 60619
+WebDriver BiDi listening on ws://127.0.0.1:60609
+1670697930168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilek95iXF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60609/devtools/browser/bf55ce48-4f26-40c0-852c-99e0fd91656e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670698122473	Marionette	INFO	Stopped listening on port 60619
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670698888477	geckodriver	INFO	Listening on 127.0.0.1:61257
+1670698891561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileIuacZ5"
+1670698891930	Marionette	INFO	Marionette enabled
+1670698891933	Marionette	INFO	Listening on port 61269
+WebDriver BiDi listening on ws://127.0.0.1:61258
+Read port: 61269
+1670698892116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileIuacZ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61258/devtools/browser/9b14b6e9-7e0c-45e6-b82a-dd20b87853b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670749249999	Marionette	INFO	Stopped listening on port 61269
+e-debugging-port" "61669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilenCZLkK"
+1670699446868	Marionette	INFO	Marionette enabled
+1670699446872	Marionette	INFO	Listening on port 61679
+WebDriver BiDi listening on ws://127.0.0.1:61669
+Read port: 61679
+1670699447065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilenCZLkK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61669/devtools/browser/fa7041fa-367f-4e3a-8194-2ebaa5cad957
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670699579425	Marionette	INFO	Stopped listening on port 61679
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670699646229	geckodriver	INFO	Listening on 127.0.0.1:61949
+1670699649313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileG7NIIZ"
+1670699649637	Marionette	INFO	Marionette enabled
+1670699649641	Marionette	INFO	Listening on port 61961
+WebDriver BiDi listening on ws://127.0.0.1:61950
+Read port: 61961
+1670699649878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileG7NIIZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61950/devtools/browser/2f6903c9-95b1-4434-bb10-c882ae3d4de2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670699695094	Marionette	INFO	Stopped listening on port 61961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670699709799	geckodriver	INFO	Listening on 127.0.0.1:62098
+1670699712887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilerfSV1H"
+1670699713170	Marionette	INFO	Marionette enabled
+1670699713174	Marionette	INFO	Listening on port 62110
+WebDriver BiDi listening on ws://127.0.0.1:62099
+Read port: 62110
+1670699713404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilerfSV1H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62099/devtools/browser/2cb5f845-0a41-4fe3-8540-7fcd250e308b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670699756629	Marionette	INFO	Stopped listening on port 62110
+!!! error running onStopped callback: TypeError: callback is not a function
+1670700156264	geckodriver	INFO	Listening on 127.0.0.1:62411
+1670700159363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilew7h6BQ"
+1670700159685	Marionette	INFO	Marionette enabled
+1670700159689	Marionette	INFO	Listening on port 62423
+Read port: 62423
+WebDriver BiDi listening on ws://127.0.0.1:62412
+1670700159791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilew7h6BQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62412/devtools/browser/062478c6-58b4-4fb6-8a16-f6becac26510
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670749249316	Marionette	INFO	Stopped listening on port 62423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile44CG18"
+1670745714983	Marionette	INFO	Marionette enabled
+1670745714987	Marionette	INFO	Listening on port 63056
+WebDriver BiDi listening on ws://127.0.0.1:63046
+Read port: 63056
+1670745715199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile44CG18\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63046/devtools/browser/c2d13598-635a-4eaa-b3c2-6ff06ef249bd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670749249304	Marionette	INFO	Stopped listening on port 63056
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilemqmbe0"
+1670746022689	Marionette	INFO	Marionette enabled
+1670746022692	Marionette	INFO	Listening on port 63332
+Read port: 63332
+WebDriver BiDi listening on ws://127.0.0.1:63321
+1670746022812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilemqmbe0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63321/devtools/browser/528d596a-222d-457e-ae24-65335ae9d7ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670749249191	Marionette	INFO	Stopped listening on port 63332
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilexbOygV"
+1670746198457	Marionette	INFO	Marionette enabled
+1670746198461	Marionette	INFO	Listening on port 63565
+Read port: 63565
+WebDriver BiDi listening on ws://127.0.0.1:63555
+1670746198586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilexbOygV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63555/devtools/browser/55b05694-44e0-48e5-9fac-e3fb6e89b82a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670749249211	Marionette	INFO	Stopped listening on port 63565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileF3F5ay"
+1670748167496	Marionette	INFO	Marionette enabled
+1670748167500	Marionette	INFO	Listening on port 64170
+Read port: 64170
+WebDriver BiDi listening on ws://127.0.0.1:64159
+1670748167610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileF3F5ay\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64159/devtools/browser/8515822e-f9be-45de-a202-99d180838bce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670748544802	Marionette	INFO	Stopped listening on port 64170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670748880882	geckodriver	INFO	Listening on 127.0.0.1:64612
+1670748883956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileyfE6g1"
+1670748884340	Marionette	INFO	Marionette enabled
+1670748884344	Marionette	INFO	Listening on port 64623
+WebDriver BiDi listening on ws://127.0.0.1:64613
+Read port: 64623
+1670748884579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileyfE6g1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64613/devtools/browser/10f99c66-c4b8-4b26-8b1d-f85ac4f0c95f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670748892757	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670748894729	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670748895581	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670748898586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670748902577	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670748903392	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670748910163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670748910932	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670749248696	Marionette	INFO	Stopped listening on port 64623
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilehC1NX1"
+1670749001636	Marionette	INFO	Marionette enabled
+1670749001639	Marionette	INFO	Listening on port 64794
+Read port: 64794
+WebDriver BiDi listening on ws://127.0.0.1:64784
+1670749001733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilehC1NX1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64784/devtools/browser/6c8b5423-1a1b-4511-af34-83a30f639f21
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670749215956	Marionette	INFO	Stopped listening on port 64794
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileHiOkwG"
+1670749151344	Marionette	INFO	Marionette enabled
+1670749151348	Marionette	INFO	Listening on port 64973
+WebDriver BiDi listening on ws://127.0.0.1:64962
+Read port: 64973
+1670749151583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileHiOkwG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64962/devtools/browser/7b2a4a3b-4abb-4734-aa98-4e0b663fcdb5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670749183683	Marionette	INFO	Stopped listening on port 64973
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670749258986	geckodriver	INFO	Listening on 127.0.0.1:65121
+1670749262030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileP3NuEx"
+1670749262374	Marionette	INFO	Marionette enabled
+1670749262378	Marionette	INFO	Listening on port 65132
+Read port: 65132
+WebDriver BiDi listening on ws://127.0.0.1:65122
+1670749262477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileP3NuEx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65122/devtools/browser/f979b73b-d3dc-4d7c-8112-fe943f5d84af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670751159707	Marionette	INFO	Stopped listening on port 65132
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofiley6O0ds"
+1670750812071	Marionette	INFO	Marionette enabled
+1670750812074	Marionette	INFO	Listening on port 49864
+Read port: 49864
+WebDriver BiDi listening on ws://127.0.0.1:49853
+1670750812176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofiley6O0ds\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49853/devtools/browser/1ec8892f-16ff-4152-a4e3-cfa739d2f9ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670750942725	Marionette	INFO	Stopped listening on port 49864
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileAlwDMc"
+1670750941215	Marionette	INFO	Marionette enabled
+1670750941219	Marionette	INFO	Listening on port 50041
+Read port: 50041
+WebDriver BiDi listening on ws://127.0.0.1:50031
+1670750941319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileAlwDMc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50031/devtools/browser/86296c4e-500b-4a38-a5d0-c7ade5bb3d10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670751159629	Marionette	INFO	Stopped listening on port 50041
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile5ZXClK"
+1670751057047	Marionette	INFO	Marionette enabled
+1670751057051	Marionette	INFO	Listening on port 50208
+Read port: 50208
+WebDriver BiDi listening on ws://127.0.0.1:50197
+1670751057167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile5ZXClK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50197/devtools/browser/9aada160-9eeb-473f-bad5-f25419c474f3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670751159555	Marionette	INFO	Stopped listening on port 50208
+!!! error running onStopped callback: TypeError: callback is not a function
+1670751249025	geckodriver	INFO	Listening on 127.0.0.1:50397
+1670751252119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50398" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileI3RYJW"
+1670751252462	Marionette	INFO	Marionette enabled
+1670751252466	Marionette	INFO	Listening on port 50409
+Read port: 50409
+WebDriver BiDi listening on ws://127.0.0.1:50398
+1670751252562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileI3RYJW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50398/devtools/browser/fc600bc6-2110-4342-bcf8-b96d05ba20b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670751300326	Marionette	INFO	Stopped listening on port 50409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670751713499	geckodriver	INFO	Listening on 127.0.0.1:50781
+1670751716583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilevOEDbu"
+1670751716858	Marionette	INFO	Marionette enabled
+1670751716862	Marionette	INFO	Listening on port 50792
+WebDriver BiDi listening on ws://127.0.0.1:50782
+Read port: 50792
+1670751717087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilevOEDbu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50782/devtools/browser/47020e23-c51b-4ffe-af17-4ef199fd2706
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670751770517	Marionette	INFO	Stopped listening on port 50792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670751982541	geckodriver	INFO	Listening on 127.0.0.1:51017
+1670751985641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile3A08tE"
+1670751985916	Marionette	INFO	Marionette enabled
+1670751985919	Marionette	INFO	Listening on port 51028
+Read port: 51028
+WebDriver BiDi listening on ws://127.0.0.1:51018
+1670751986042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile3A08tE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51018/devtools/browser/93d23e3a-3399-49c6-a5e3-f8f73e08ec02
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670752778372	Marionette	INFO	Stopped listening on port 51028
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileylcTnE"
+1670752103669	Marionette	INFO	Marionette enabled
+1670752103673	Marionette	INFO	Listening on port 51194
+WebDriver BiDi listening on ws://127.0.0.1:51184
+Read port: 51194
+1670752103905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileylcTnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51184/devtools/browser/d2fe9e9a-1336-41c1-ad98-3346b6f05701
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670752778785	Marionette	INFO	Stopped listening on port 51194
+e-debugging-port" "51425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileVZpt3x"
+1670752372735	Marionette	INFO	Marionette enabled
+1670752372738	Marionette	INFO	Listening on port 51436
+Read port: 51436
+WebDriver BiDi listening on ws://127.0.0.1:51425
+1670752372837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileVZpt3x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51425/devtools/browser/a29ede12-cbab-4f3a-a578-88d9150579dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670752431775	Marionette	INFO	Stopped listening on port 51436
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670752605452	geckodriver	INFO	Listening on 127.0.0.1:51704
+1670752608509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile5ngi3c"
+1670752608823	Marionette	INFO	Marionette enabled
+1670752608827	Marionette	INFO	Listening on port 51715
+Read port: 51715
+WebDriver BiDi listening on ws://127.0.0.1:51705
+1670752608929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile5ngi3c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51705/devtools/browser/b4f0c504-361b-4eba-a127-aad64fd664a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670752778281	Marionette	INFO	Stopped listening on port 51715
+0752700478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilef6AnGS"
+1670752700850	Marionette	INFO	Marionette enabled
+1670752700854	Marionette	INFO	Listening on port 51874
+WebDriver BiDi listening on ws://127.0.0.1:51864
+Read port: 51874
+1670752701092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilef6AnGS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51864/devtools/browser/0b3297b2-7f53-4208-98c6-36bf6c95a22b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670752778393	Marionette	INFO	Stopped listening on port 51874
+!!! error running onStopped callback: TypeError: callback is not a function
+1670752781090	geckodriver	INFO	Listening on 127.0.0.1:52015
+1670752784186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilepOAEgO"
+1670752784468	Marionette	INFO	Marionette enabled
+1670752784471	Marionette	INFO	Listening on port 52027
+WebDriver BiDi listening on ws://127.0.0.1:52016
+Read port: 52027
+1670752784655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilepOAEgO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52016/devtools/browser/d03407d5-e412-48b2-a65c-67b1536c98fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670753818592	Marionette	INFO	Stopped listening on port 52027
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileCs9xo2"
+1670752856873	Marionette	INFO	Marionette enabled
+1670752856877	Marionette	INFO	Listening on port 52171
+WebDriver BiDi listening on ws://127.0.0.1:52161
+Read port: 52171
+1670752857065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileCs9xo2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52161/devtools/browser/c6edc6bd-6ef2-43b2-9b62-0abe8986902e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670753818569	Marionette	INFO	Stopped listening on port 52171
+!!! error running onStopped callback: TypeError: callback is not a function
+1670753957604	geckodriver	INFO	Listening on 127.0.0.1:52451
+1670753960674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilepO7kGe"
+1670753960951	Marionette	INFO	Marionette enabled
+1670753960955	Marionette	INFO	Listening on port 52463
+WebDriver BiDi listening on ws://127.0.0.1:52452
+Read port: 52463
+1670753961075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilepO7kGe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52452/devtools/browser/ecaa4269-198a-49d8-b49a-054ca5ae79c0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670754453542	Marionette	INFO	Stopped listening on port 52463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilepyiGRd"
+1670754188835	Marionette	INFO	Marionette enabled
+1670754188840	Marionette	INFO	Listening on port 52690
+Read port: 52690
+WebDriver BiDi listening on ws://127.0.0.1:52679
+1670754188942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofilepyiGRd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52679/devtools/browser/deb0d1a5-066a-41df-a18a-34d608ff53d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670755555635	Marionette	INFO	Stopped listening on port 52690
+e-debugging-port" "52970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile5rOijM"
+1670754519912	Marionette	INFO	Marionette enabled
+1670754519915	Marionette	INFO	Listening on port 52981
+Read port: 52981
+WebDriver BiDi listening on ws://127.0.0.1:52970
+1670754520016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile5rOijM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52970/devtools/browser/87931362-6c9b-4f2b-8c7c-6f3f5c84239f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670754727717	Marionette	INFO	Stopped listening on port 52981
+1670754731169	geckodriver	INFO	Listening on 127.0.0.1:53210
+1670754734244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileOqygbY"
+1670754734562	Marionette	INFO	Marionette enabled
+1670754734565	Marionette	INFO	Listening on port 53222
+Read port: 53222
+WebDriver BiDi listening on ws://127.0.0.1:53211
+1670754734670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileOqygbY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53211/devtools/browser/9e980e12-3ce0-46cc-b07c-accb1ce35474
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670755554711	Marionette	INFO	Stopped listening on port 53222
+0754894642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofiledHyP8U"
+1670754894927	Marionette	INFO	Marionette enabled
+1670754894930	Marionette	INFO	Listening on port 53405
+Read port: 53405
+WebDriver BiDi listening on ws://127.0.0.1:53394
+1670754895052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofiledHyP8U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53394/devtools/browser/91a09bef-ede0-41f1-966e-272e9be50725
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670755021013	Marionette	INFO	Stopped listening on port 53401670755021820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileDfwGWR"
+1670755022146	Marionette	INFO	Marionette enabled
+1670755022150	Marionette	INFO	Listening on port 53575
+WebDriver BiDi listening on ws://127.0.0.1:53564
+Read port: 53575
+1670755022395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileDfwGWR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53564/devtools/browser/a488e06b-b383-43a5-a5e8-442a7c55d4f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670755554479	Marionette	INFO	Stopped listening on port 53575
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileWbul3W"
+1670755113310	Marionette	INFO	Marionette enabled
+1670755113314	Marionette	INFO	Listening on port 53728
+WebDriver BiDi listening on ws://127.0.0.1:53717
+Read port: 53728
+1670755113506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileWbul3W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53717/devtools/browser/b12c180f-6833-47ed-976a-34a8db6d0a00
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670755554854	Marionette	INFO	Stopped listening on port 53728
+0755346527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileQnQ5k5"
+1670755346872	Marionette	INFO	Marionette enabled
+1670755346877	Marionette	INFO	Listening on port 53976
+Read port: 53976
+WebDriver BiDi listening on ws://127.0.0.1:53965
+1670755346988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileQnQ5k5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53965/devtools/browser/59e67f26-d479-4188-a43a-d17eee0f5e9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670755427042	Marionette	INFO	Stopped listening on port 53976
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile4hyxou"
+1670755424052	Marionette	INFO	Marionette enabled
+1670755424055	Marionette	INFO	Listening on port 54151
+Read port: 54151
+WebDriver BiDi listening on ws://127.0.0.1:54140
+1670755424152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile4hyxou\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54140/devtools/browser/8f4e1c10-9283-41cd-b96b-09c55d911155
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670755554338	Marionette	INFO	Stopped listening on port 54151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile3kQ4Ge"
+1670755521207	Marionette	INFO	Marionette enabled
+1670755521211	Marionette	INFO	Listening on port 54351
+Read port: 54351
+WebDriver BiDi listening on ws://127.0.0.1:54341
+1670755521314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile3kQ4Ge\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54341/devtools/browser/7a831f7f-46e1-4f34-846c-865d378700da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670755548666	Marionette	INFO	Stopped listening on port 54351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1670764614687	geckodriver	INFO	Listening on 127.0.0.1:63711
+1670764617777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileP4CloO"
+1670764618071	Marionette	INFO	Marionette enabled
+1670764618076	Marionette	INFO	Listening on port 63727
+Read port: 63727
+WebDriver BiDi listening on ws://127.0.0.1:63712
+1670764618192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileP4CloO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63712/devtools/browser/4e6166bd-6d5d-47fe-9ac4-c2394f4f49cc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670764693546	Marionette	INFO	Stopped listening on port 63727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileDBY4wx"
+1670764646460	Marionette	INFO	Marionette enabled
+1670764646464	Marionette	INFO	Listening on port 63857
+WebDriver BiDi listening on ws://127.0.0.1:63844
+Read port: 63857
+1670764646649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileDBY4wx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63844/devtools/browser/ae181f5a-5734-480e-ba7a-347add1afca9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1670764690488	Marionette	INFO	Stopped listening on port 63857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1671028022112	geckodriver	INFO	Listening on 127.0.0.1:59571
+1671028025187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile35qB8J"
+1671028025520	Marionette	INFO	Marionette enabled
+1671028025523	Marionette	INFO	Listening on port 59581
+Read port: 59581
+WebDriver BiDi listening on ws://127.0.0.1:59572
+1671028025619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofile35qB8J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59572/devtools/browser/30de7dce-2b79-406d-9c6d-296126bbe96d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1671028046482	Marionette	INFO	Stopped listening on port 59581
+1671028336099	geckodriver	INFO	Listening on 127.0.0.1:59679
+1671028339163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileHPcsEU"
+1671028339441	Marionette	INFO	Marionette enabled
+1671028339445	Marionette	INFO	Listening on port 59689
+WebDriver BiDi listening on ws://127.0.0.1:59680
+Read port: 59689
+1671028339675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lighter\\AppData\\Local\\Temp\\rust_mozprofileHPcsEU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59680/devtools/browser/9d1041b2-b336-4348-94c6-8a3d930b403c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://trial-sport.ru."
+1671028366003	Marionette	INFO	Stopped listening on port 59689
